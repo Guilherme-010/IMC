@@ -16,8 +16,6 @@
 
 <img src="https://pa1.narvii.com/6809/b8e84d235a1b18c06ccf8b3c48dfead4fca5eb17_hq.gif" width="170" align="right">
 
-## 
-
 <div>
   <h2>Funcionamento do Programa</h2>
   <p>O método utilizado foi simples. Primeiro eu peguei do usuário o Peso, Altura e o Sexo.
